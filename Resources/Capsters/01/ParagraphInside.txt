@@ -1,0 +1,79 @@
+﻿@Дворы Тест длинного заголовка 1@
+$
+Параграф1 Большой параграф Очень большой тексту
+#
+^<size=90>Возможности форматирования текстовых блоков</size>
+^<size=50>Можно делать любой размер текста например это 50пт</size>
+^<size=5>а это 5 пт The text for UI elements and text meshes can incorporate multiple font styles and sizes. Rich text is supported both for the UI System and the legacy GUI system. The Text, GUIStyle, GUIText and TextMesh classes have a Rich Text setting which instructs Unity to look for markup tags within the text. The Debug.Log function can also use these markup tags to enhance error reports from code. The tags are not displayed but indicate style changes to be applied to the text.</size>
+^<size=30>Можно делать списки например такие:</size>
+^   ❶ Раздел 
+^   ❷ раздел 
+^   ❸ dfsdf 
+^   ❹ dfsdf 
+^   ❺ dfsdf 
+^   ❻ dfsdf 
+^   ❼ dfsdf 
+^   ❽ dfsdf 
+^   ➒ dfsdf 
+^   ➓ dfsdf 
+^
+^<size=30>Еще можно делать обычные пункты:</size>
+^   • Раздел 1
+^   • раздел 2
+^   • dfsdf 3
+^   • dfsdf 4
+^   • dfsdf 5
+^   • dfsdf 6
+^
+^     Можно вставлять любые спецсимволы:  ♥ ♣  ©  ® ∑ ✎ ☼
+^ <size=50>Беда! обычный текст тоже можно вствлять:</size> 
+^      Сегодня, 28 сентября, сотрудники ООО «Тепловые Сети Находка» (третий по величине город Приморья, население — 151 420 человек) обратились в несколько федеральных СМИ с открытым письмом, в которых они жалуются на социальную несправедливость и произвол местных чиновников. Текст письма за подписью и.о. директора предприятия И.А. Козлова приводится в оригинале.
+Мы обращаемся ко всем жителям Приморья, к чиновникам, депутатам, другим представителям власти, общественных организаций, СМИ, прокуратуры, полиции.
+^
+^      Услышьте нас! К вам обращаются люди, от которых зависит здоровье тысяч других людей в Находкинском городском округе. Мы сотрудники теплогенерирующей компании ООО «Тепловые сети Находка». Мы честно работаем, третий год вырабатывая и поставляя тепло в дома горожан.
+^Можно вставлять картинки например
+^ &/Resources/Capsters/01/Catt.jpg
+^Можно вставлять картинки с прозрачностью:
+^ &/Resources/Capsters/01/ItemMain01.png
+^узнаем высоту текста и в запоминаем ее для позиционирования следующего блока текста
+^вернем старое местоположение Done reading, close the reader and return true to broadcast success
+^sdfsdf
+^ &/Resources/Capsters/01/maxresdefault.jpg
+^
+^<color=green>меняем цвет текста
+^<color=green>меняем цвет текста
+^ &/Resources/Capsters/01/ItemMain01.png
+^<color=green>меняем цвет текста
+^ &/Resources/Capsters/01/maxresdefault.jpg
+^<color=green>меняем цвет текста
+^ &/Resources/Capsters/01/maxresdefault.jpg
+^<color=green>меняем цвет текста
+^ &/Resources/Capsters/01/maxresdefault.jpg
+^
+^<size=30> не жирный шрифт <b>и жирный </b>   </size>
+^ <i>с наклоном </i> и без
+^ <size=50> <color=red>Любой цвет текста тоже можно сдлеать>RICH</color>  </size>
+^ <size=50> <color=maroon>Любой цвет текста тоже можно сдлеать>RICH</color>  </size>
+^ <size=50> <color=blue>Любой цвет текста тоже можно сдлеать>RICH</color>  </size>
+^ <size=50> <color=lime>Любой цвет текста тоже можно сдлеать>RICH</color>  </size>
+$
+Параграф еще
+#
+^узнаем высоту текста и в запоминаем ее для позиционирования следующего блока текста
+^вернем старое местоположение Done reading, close the reader and return true to broadcast success
+^jdfg fgfgh
+$
+И ещеasd1
+#
+^dfguj
+^g
+$
+И ещеasd2
+#
+^dfguj
+^g
+$
+И ещеasd3
+#
+^dfguj
+^g

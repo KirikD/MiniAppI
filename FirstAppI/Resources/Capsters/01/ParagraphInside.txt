@@ -1,0 +1,25 @@
+﻿@Дворы Тест длинного заголовка 1@
+$
+Параграф1 Большой параграф Очень большой тексту
+#
+^<size=50>largely</size> Куча текста тут
+^<color=green>меняем цвет текста</color>
+^<color=green>меняем цвет текста</color>
+^ &/Resources/Capsters/01/Catt.jpg
+^Куча текста тут2  и в запоминаем ее для позиционирования 
+^узнаем высоту текста и в запоминаем ее для позиционирования следующего блока текста
+^вернем старое местоположение Done reading, close the reader and return true to broadcast success
+^sdfsdf
+^ &/Resources/Capsters/01/maxresdefault.jpg
+^dfsdf
+$
+Параграф еще
+#
+^узнаем высоту текста и в запоминаем ее для позиционирования следующего блока текста
+^вернем старое местоположение Done reading, close the reader and return true to broadcast success
+^jd
+$
+И еще!
+#
+^dfguj
+^g
